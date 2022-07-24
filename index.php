@@ -157,23 +157,32 @@
         <div class="row no-gutters">
           <div class="col-lg-4 col-md-6">
             <div class="icon-box">
-              <div class="icon"><i class="bi bi-laptop"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <div class="icon text-center"><i class="bi bi-recycle"></i></div>
+              <div class="row">
+                <div class="title col-lg-6 col-md-6"><a href="">Dairy Farm Waste</a></div>
+                <div class="icon col-lg-6 col-md-6" style="text-align: right;"><i class="bi bi-arrow-right-square"></i></div>
+                <p class="description">There are several dairy farm wastes including solid waste from cow dung, liquid waste from liquid cow dung as well as water from flushing bathrooms and also washing cages. All this waste can be combined into biogas</p>
+              </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box">
-              <div class="icon"><i class="bi bi-briefcase"></i></div>
-              <h4 class="title"><a href="">Dolor Sitema</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <div class="icon text-center"><i class="bi bi-droplet"></i></div>
+              <div class="row">
+                <div class="title col-lg-6 col-md-6"><a href="">Pure Methane Gas</a></div>
+                <div class="icon col-lg-6 col-md-6" style="text-align: right;"><i class="bi bi-arrow-right-square"></i></div>
+                <p class="description">Compressed biogas is a purified form of another biogas content (pure methane gas/ CH4) where unwanted gases have been removed to produce >95% methane gas</p>
+              </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box">
-              <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trade stravi</p>
+                <div class="icon text-center"><i class="bi bi-fire"></i></div>
+                <div class="row">
+                  <div class="title col-lg-6 col-md-6"><a href="">Bio CNG</a></h4></div>
+                  <div class="icon col-lg-6 col-md-6" style="text-align: right;"><i class="bi bi-arrow-right-square"></i></div>
+                  <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trade stravi</p>
+                </div>
             </div>
           </div>
         </div>
@@ -693,8 +702,8 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <h3>Green</h3>
-      <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+      <h3><img src="assets/img/logo-no-bg.png" alt="" width="200"></h3>
+      <p>Make The World Better With Circular Economy And Renewable Energy.</p>
       <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -703,7 +712,7 @@
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       <div class="copyright">
-        &copy; Copyright <strong><span>Green</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Micro X Indonesia</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
