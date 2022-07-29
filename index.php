@@ -171,7 +171,7 @@
               <div class="row">
                 <div class="title col-lg-6 col-md-6"><a href="">Pure Methane Gas</a></div>
                 <div class="icon col-lg-6 col-md-6" style="text-align: right;"><i class="bi bi-arrow-right-square"></i></div>
-                <p class="description">Compressed biogas is a purified form of another biogas content (pure methane gas/ CH4) where unwanted gases have been removed to produce >95% methane gas</p>
+                <p class="description">The biogas purification process is to make biogas purer by only separating pure methane gas with a scrubber or desulfurization process and other trace gases.</p>
               </div>
             </div>
           </div>
@@ -181,7 +181,7 @@
                 <div class="row">
                   <div class="title col-lg-6 col-md-6"><a href="">Bio CNG</a></h4></div>
                   <div class="icon col-lg-6 col-md-6" style="text-align: right;"><i class="bi bi-arrow-right-square"></i></div>
-                  <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trade stravi</p>
+                  <p class="description">Compressed biogas is a purified form of another biogas content (pure methane gas/ CH4) where unwanted gases have been removed to produce >95% methane gas</p>
                 </div>
             </div>
           </div>
