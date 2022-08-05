@@ -42,7 +42,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
         <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">head.office@microx-indonesia.com</a>
-        <i class="bi bi-phone-fill phone-icon"></i> +1 5589 55488 55
+        <i class="bi bi-phone-fill phone-icon"></i> +62 812-5075-2344
       </div>
       <div class="social-links d-none d-md-block">
         <a href="https://www.facebook.com/people/Micro-X/100083579186884/" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -359,7 +359,7 @@
             <h1>Reach Us</h1>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Our Whatsapp Business</a>
+            <a class="cta-btn align-middle" href="https://wa.me/6281250752344?text=Halo%20Micro%20X%20Indonesia" target="_blank">Our Whatsapp Business</a>
           </div>
         </div>
 
@@ -600,7 +600,7 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Gundengan kidul Margorejo Tempel Sleman Yogyakarta Rt. 05 Rw. 26</p>
               </div>
 
               <div class="email">
@@ -612,10 +612,10 @@
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+62 812-5075-2344</p>
               </div>
 
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+              <iframe src="https://maps.google.com/maps?q=Gundengan%20kidul%20Margorejo%20Tempel%20Sleman%20Yogyakarta%20Rt.%2005%20Rw.%2026&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
             </div>
 
           </div>
