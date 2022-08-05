@@ -45,9 +45,9 @@
         <i class="bi bi-phone-fill phone-icon"></i> +1 5589 55488 55
       </div>
       <div class="social-links d-none d-md-block">
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.facebook.com/people/Micro-X/100083579186884/" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/microx.id" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+        <a href="https://www.linkedin.com/company/micro-x-indonesia/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
       </div>
     </div>
   </section>
@@ -606,7 +606,7 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>head.office@microx-indonesia.com</p>
               </div>
 
               <div class="phone">
@@ -662,9 +662,9 @@
       <h3><img src="assets/img/logo-no-bg.png" alt="" width="200"></h3>
       <p>Make The World Better With Circular Economy And Renewable Energy.</p>
       <div class="social-links">
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://www.facebook.com/people/Micro-X/100083579186884/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
         <a href="https://www.instagram.com/microx.id" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://www.linkedin.com/company/micro-x-indonesia/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
       </div>
       <div class="copyright">
         &copy; Copyright <strong><span>Micro X Indonesia</span></strong>. All Rights Reserved
