@@ -197,7 +197,6 @@
         <div class="section-title">
           <h2>About Us</h2>
           <p>Micro X is a start-up company that is starting to develop and focus on the world of renewable energy & circular economy. Start-up Micro X was founded on July, 2022 and has it’s address at Sleman, Yogyakarta.</p>
-          <p>The background of the establishment of Micro X is the increasingly apprehensive environmental conditions which are marked by the increasing condition of carbon gas. Therefore, Micro X is committed to being the main pioneer of companies engaged in new and renewable energy that is oriented towards clean energy as an alternative source of life specially for bioenergy from biomass resources</p>
         </div>
 
         <div class="row">
