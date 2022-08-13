@@ -196,7 +196,8 @@
 
         <div class="section-title">
           <h2>About Us</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Micro X is a start-up company that is starting to develop and focus on the world of renewable energy & circular economy. Start-up Micro X was founded on July, 2022 and has it’s address at Sleman, Yogyakarta.</p>
+          <p>The background of the establishment of Micro X is the increasingly apprehensive environmental conditions which are marked by the increasing condition of carbon gas. Therefore, Micro X is committed to being the main pioneer of companies engaged in new and renewable energy that is oriented towards clean energy as an alternative source of life specially for bioenergy from biomass resources</p>
         </div>
 
         <div class="row">
@@ -204,21 +205,18 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+          <p>The background of the establishment of Micro X is the increasingly apprehensive environmental conditions which are marked by the increasing condition of carbon gas. Therefore, Micro X is committed to being the main pioneer of companies engaged in new and renewable energy that is oriented towards clean energy as an alternative source of life specially for bioenergy from biomass resources</p>
+            <h3>Vision.</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            To become a pioneer center and provider of new & renewable energy specifically for bioenergy resources based services as well as a circular economy in Indonesia that is oriented towards developing clean energy and the community economy..
             </p>
+            <h3>Mision.</h3>
             <ul>
-              <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="bi bi-check-circled"></i> To be the largest Bioenergy provider in Java especially for Bio CNG infrastructure services.</li>
+              <li><i class="bi bi-check-circled"></i> Become an alternative provider of LPG gas substitute with Bio CNG.</li>
+              <li><i class="bi bi-check-circled"></i> Optimizing the potency of biomass utilization for alternative Renewable Energy.</li>
+              <li><i class="bi bi-check-circled"></i> Become one of the companies that help reduce carbon emissions.</li>
             </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
           </div>
         </div>
 
@@ -519,7 +517,7 @@
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team section-bg">
+    <!-- <section id="team" class="team section-bg">
       <div class="container">
 
         <div class="section-title">
@@ -582,7 +580,7 @@
         </div>
 
       </div>
-    </section><!-- End Team Section -->
+    </section>End Team Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
