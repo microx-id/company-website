@@ -392,7 +392,7 @@
                 <p>Competition organized by <b>Indonesian Ministry of Energy and Human Resources (ESDM)</b> in collaboration with <b>New Energy Mexus</b> to support G20 Indonesia </p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="1st Champion of Energy Transition Innovation Competition 2022"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="https://www.instagram.com/p/ChenmxKJrb6/?igshid=YmMyMTA2M2Y=" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -401,11 +401,11 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Top 3 Champions of Battle of Mind</h4>
-                <p>Web</p>
+                <h4>Top 3 Champions of Battle of Minds Indonesia 2022</h4>
+                <p>Micro X is among the 3 startups to represent Indonesia in the Battle of Minds 2022. They will compete with other Asia Pacifics representations in the competition initiated by British American Tobacco (BAT)</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="https://m.medcom.id/amp/1bVd6QGK-bat-indonesia-dan-inovator-muda-siap-membuat-dampak-positif-terhadap-lingkungan-hidup" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
