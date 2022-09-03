@@ -150,46 +150,6 @@
 
   <main id="main">
 
-    <!-- ======= Featured Services Section ======= -->
-    <section id="featured-services" class="featured-services section-bg">
-      <div class="container">
-
-        <div class="row no-gutters">
-          <div class="col-lg-4 col-md-6">
-            <div class="icon-box">
-              <div class="icon text-center"><i class="bi bi-recycle"></i></div>
-              <div class="row">
-                <div class="title col-lg-6 col-md-6"><a href="">Dairy Farm Waste</a></div>
-                <div class="icon col-lg-6 col-md-6" style="text-align: right;"><i class="bi bi-arrow-right-square"></i></div>
-                <p class="description">There are several dairy farm wastes including solid waste from cow dung, liquid waste from liquid cow dung as well as water from flushing bathrooms and also washing cages. All this waste can be combined into biogas</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="icon-box">
-              <div class="icon text-center"><i class="bi bi-droplet"></i></div>
-              <div class="row">
-                <div class="title col-lg-6 col-md-6"><a href="">Pure Methane Gas</a></div>
-                <div class="icon col-lg-6 col-md-6" style="text-align: right;"><i class="bi bi-arrow-right-square"></i></div>
-                <p class="description">The biogas purification process is to make biogas purer by only separating pure methane gas with a scrubber or desulfurization process and other trace gases.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="icon-box">
-                <div class="icon text-center"><i class="bi bi-fire"></i></div>
-                <div class="row">
-                  <div class="title col-lg-6 col-md-6"><a href="">Bio CNG</a></h4></div>
-                  <div class="icon col-lg-6 col-md-6" style="text-align: right;"><i class="bi bi-arrow-right-square"></i></div>
-                  <p class="description">Compressed biogas is a purified form of another biogas content (pure methane gas/ CH4) where unwanted gases have been removed to produce >95% methane gas</p>
-                </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Featured Services Section -->
-
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
       <div class="container">
@@ -222,85 +182,93 @@
       </div>
     </section><!-- End About Us Section -->
 
-    <!-- ======= Why Us Section ======= -->
-    <!-- <section id="why-us" class="why-us">
+    <!-- ======= Featured Services Section ======= -->
+    <section id="featured-services" class="featured-services section-bg">
       <div class="container">
-
+        <div class="section-title">
+          <h2>Our Core Values</h2>
+        </div>
         <div class="row no-gutters">
-
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>01</span>
-            <h4>Lorem Ipsum</h4>
-            <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+          <div class="col">
+            <div class="icon-box text-center">
+              <div class="icon"><i class="bi bi-infinity"></i></div>
+              <h4 class="title"><a href="">Sustainable</a></h4>
+            </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>02</span>
-            <h4>Repellat Nihil</h4>
-            <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+          <div class="col">
+            <div class="icon-box text-center">
+              <div class="icon"><i class="bi bi-arrows-angle-expand"></i></div>
+              <h4 class="title"><a href="">Massive</a></h4>
+            </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>03</span>
-            <h4> Ad ad velit qui</h4>
-            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+          <div class="col">
+            <div class="icon-box text-center">
+              <div class="icon"><i class="bi bi-arrow-through-heart-fill"></i></div>
+              <h4 class="title"><a href="">Accurate</a></h4>
+            </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>04</span>
-            <h4>Repellendus molestiae</h4>
-            <p>Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa</p>
+          <div class="col">
+            <div class="icon-box text-center">
+              <div class="icon"><i class="bi bi-check2"></i></div>
+              <h4 class="title"><a href="">Reasonable</a></h4>
+            </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>05</span>
-            <h4>Sapiente Magnam</h4>
-            <p>Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam</p>
+          <div class="col">
+            <div class="icon-box text-center">
+              <div class="icon"><i class="bi bi-lightbulb"></i></div>
+              <h4 class="title"><a href="">Tangible</a></h4>
+            </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>06</span>
-            <h4>Facilis Impedit</h4>
-            <p>Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae voluptatibus corporis sequi</p>
-          </div>
-
         </div>
 
       </div>
-    </section>End Why Us Section -->
-
-    <!-- ======= Our Clients Section ======= -->
-    <!-- <section id="clients" class="clients">
+    </section><!-- End Featured Services Section -->
+    <br><br><br>
+    <!-- ======= Why Us Section ======= -->
+    <section id="why-us" class="why-us">
       <div class="container">
 
         <div class="section-title">
-          <h2>Our Clients</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Advantages</h2>
         </div>
 
-        <div class="clients-slider swiper">
-          <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
+        <div class="row no-gutters">
+
+          <div class="col col-md-6 content-item">
+            <span>01</span>
+            <h4>Quality</h4>
+            <p>UThe quality of the production that we do prioritizes client satisfaction so that in the production process, accuracy, neatness and precision in every detail of the project are the most important parts in order to realize production quality that has resilience, reliability and ease of use.</p>
           </div>
-          <div class="swiper-pagination"></div>
+
+          <div class="col col-md-6 content-item">
+            <span>02</span>
+            <h4>Innovate</h4>
+            <p>We provide services that suit your needs and budget and prioritize the quality of work that is fast and maximum.</p>
+          </div>
+
+          <div class="col col-md-6 content-item">
+            <span>03</span>
+            <h4> Efficiency</h4>
+            <p>Our team is skilled, professional and has deep experience which ensures we can complete all processes on time.</p>
+          </div>
+
+          <div class="col col-md-6 content-item">
+            <span>04</span>
+            <h4>Progressive</h4>
+            <p>Keep trying to do various developments with small but fast & continuous progress and always try to make it real.</p>
+          </div>
+
         </div>
 
       </div>
-    </section>End Our Clients Section -->
+    </section><!-- End Why Us Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
 
         <div class="section-title">
-          <h2>Products</h2>
+          <h2>Product developments</h2>
         </div>
 
         <div class="row">
@@ -312,7 +280,7 @@
                 </svg>
                 <i class="bi bi-fire"></i>
               </div>
-              <h4><a href="">Bio CNG</a></h4>
+              <h4><a href="">Portable Gas</a></h4>
               <p>Compressed biogas is a purified form of another biogas content (pure methane gas/CH4) where unwanted gases have been removed to produce > 95% methane gas</p>
             </div>
           </div>
@@ -410,168 +378,150 @@
               </div>
             </div>
           </div>
-<!-- 
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div> -->
 
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
+    </section>
 
     <!-- ======= Team Section ======= -->
-    <!-- <section id="team" class="team section-bg">
+    <section id="team" class="team section-bg">
       <div class="container">
 
         <div class="section-title">
           <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Micro X offers a full range of services focused on new and renewable energys. To get the best work results, we are supported by a team of experts and
+professionals in their fields, with theoretical and practical backgrounds on New & Renewable Energy.</p>
         </div>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-1.jpg" alt="">
-              <h4>Walter White</h4>
-              <span>Chief Executive Officer</span>
+              <img src="assets/img/team/faisal.png" alt="">
+              <h4>M Faisal A Lubis</h4>
+              <span>Founder</span>
               <p>
-                Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                Busineess Strategy<br>
+                Team Management
               </p>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href="https://www.instagram.com/microx.id" target="_blank"><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/arief.jpg" alt="">
+              <h4>Arief Eko Setiantoro</h4>
+              <span>Founder</span>
+              <p>
+                General Operational<br>
+                Networking
+              </p>
+              <div class="social">
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" alt="">
-              <h4>Sarah Jhinson</h4>
-              <span>Product Manager</span>
+              <img src="assets/img/team/poppy.jpeg" alt="">
+              <h4>Poppy Rakhmadhi</h4>
+              <span>Co-Founder</span>
               <p>
-                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                Engineering Analyst<br>
+                Supply Chain Management
               </p>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>William Anderson</h4>
-              <span>CTO</span>
+              <img src="assets/img/team/kamal.jpg" alt="">
+              <h4>Kamaludin Khoir</h4>
+              <span>Co-Founder</span>
               <p>
-                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+                Digital Development<br>
+                Compliance Management
               </p>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="https://linkedin.com/in/kamaludin-khoir" target="_blank"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/nugroho.jpeg" alt="">
+              <h4>Nugroho Chandra Wijaya</h4>
+              <span>Co Founder</span>
+              <p>
+                Design & Development Product
+              </p>
+              <div class="social">
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/tendi.jpg" alt="">
+              <h4>Mochammad Tendi Noer Ramadhan </h4>
+              <span>Co-Founder</span>
+              <p></p>
+              <div class="social">
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/yunita.JPEG" alt="">
+              <h4>Yunita Sari</h4>
+              <span>Co-Founder</span>
+              <p></p>
+              <div class="social">
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/ilyas.jpeg" alt="">
+              <h4>Ilyas Alfian Suhadi</h4>
+              <span>Co Founder</span>
+              <p></p>
+              <div class="social">
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -579,7 +529,7 @@
         </div>
 
       </div>
-    </section>End Team Section -->
+    </section>
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -587,7 +537,6 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row">
