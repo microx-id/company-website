@@ -64,8 +64,8 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Products</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto" href="#products">Products</a></li>
+          <li><a class="nav-link scrollto " href="#gallery">Gallery</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -85,7 +85,6 @@
             </ul> -->
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="nav-link scrollto" href="#faq">FAQ</a></li>
           <!-- <li><a class="getstarted scrollto" href="#about">Get Started</a></li> -->
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -183,7 +182,7 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Featured Services Section ======= -->
-    <section id="featured-services" class="featured-services section-bg">
+    <section id="core-values" class="featured-services section-bg">
       <div class="container">
         <div class="section-title">
           <h2>Our Core Values</h2>
@@ -225,7 +224,7 @@
     </section><!-- End Featured Services Section -->
     <br><br><br>
     <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us">
+    <section id="advantages" class="why-us">
       <div class="container">
 
         <div class="section-title">
@@ -264,11 +263,11 @@
     </section><!-- End Why Us Section -->
 
     <!-- ======= About Us Section ======= -->
-    <section id="product" class="about">
+    <section id="products" class="about">
       <div class="container">
 
         <div class="section-title">
-          <h2>Product</h2>
+          <h2>Products</h2>
         </div>
 
         <div class="row">
@@ -303,7 +302,7 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+    <section id="product-dev" class="services">
       <div class="container">
 
         <div class="section-title">
@@ -371,11 +370,11 @@
     </section><!-- End Cta Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <section id="gallery" class="portfolio">
       <div class="container">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
+          <h2>Gallery</h2>
         </div>
 
         <div class="row">
@@ -398,7 +397,7 @@
                 <h4>1st Champion of Energy Transition Innovation Competition 2022</h4>
                 <p>Competition organized by <b>Indonesian Ministry of Energy and Human Resources (ESDM)</b> in collaboration with <b>New Energy Mexus</b> to support G20 Indonesia </p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="1st Champion of Energy Transition Innovation Competition 2022"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="1st Champion of Energy Transition Innovation Competition 2022 <br> Competition organized by <b>Indonesian Ministry of Energy and Human Resources (ESDM)</b> in collaboration with <b>New Energy Mexus</b> to support G20 Indonesia "><i class="bx bx-plus"></i></a>
                   <a href="https://www.instagram.com/p/ChenmxKJrb6/?igshid=YmMyMTA2M2Y=" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -411,7 +410,7 @@
                 <h4>Top 3 Champions of Battle of Minds Indonesia 2022</h4>
                 <p>Micro X is among the 3 startups to represent Indonesia in the Battle of Minds 2022. They will compete with other Asia Pacifics representations in the competition initiated by British American Tobacco (BAT)</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Top 3 Champions Battle of Minds Indonesia 2022"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Top 3 Champions Battle of Minds Indonesia 2022 <br> Micro X is among the 3 startups to represent Indonesia in the <b>Battle of Minds 2022</b>. They will compete with other Asia Pacifics representations in the competition initiated by <b>British American Tobacco (BAT)</b>"><i class="bx bx-plus"></i></a>
                   <a href="https://m.medcom.id/amp/1bVd6QGK-bat-indonesia-dan-inovator-muda-siap-membuat-dampak-positif-terhadap-lingkungan-hidup" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -579,7 +578,7 @@
 
         <div class="row">
 
-          <div class="col-lg-5 d-flex align-items-stretch">
+          <div class="col-lg-12 d-flex align-items-stretch">
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
@@ -599,38 +598,9 @@
                 <p>+62 812-5075-2344</p>
               </div>
 
-              <iframe src="https://maps.google.com/maps?q=Gundengan%20kidul%20Margorejo%20Tempel%20Sleman%20Yogyakarta%20Rt.%2005%20Rw.%2026&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+              <iframe src="https://maps.google.com/maps?q=Gundengan%20kidul%20Margorejo%20Tempel%20Sleman%20Yogyakarta%20Rt.%2005%20Rw.%2026&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" style="border:0; width: 100%; height: 500px;" allowfullscreen></iframe>
             </div>
 
-          </div>
-
-          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="controllers/mail.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
-                  <input type="text" name="name" class="form-control" id="name" required>
-                </div>
-                <div class="form-group col-md-6 mt-3 mt-md-0">
-                  <label for="name">Your Email</label>
-                  <input type="email" class="form-control" name="email" id="email" required>
-                </div>
-              </div>
-              <div class="form-group mt-3">
-                <label for="name">Subject</label>
-                <input type="text" class="form-control" name="subject" id="subject" required>
-              </div>
-              <div class="form-group mt-3">
-                <label for="name">Message</label>
-                <textarea class="form-control" name="message" rows="10" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
           </div>
 
         </div>
