@@ -263,6 +263,45 @@
       </div>
     </section><!-- End Why Us Section -->
 
+    <!-- ======= About Us Section ======= -->
+    <section id="product" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Product</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2">
+            <img src="assets/img/products/btc.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
+            <h3>Product Base.</h3>
+            <h4>Business To Customer.</h4>
+            <p>We collaborate with medium-sized dairy farms under the auspices of the Village Cooperative or Village-Owned Enterprises with activities to make BIO CNG infrastructure and also carry out operations to produce gas products.</p>
+          </div>
+        </div>
+        <br><br>
+        <div class="row">
+          <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-2 content">
+            <h3>Project Base.</h3>
+            <h4>Business To Business.</h4>
+            <p>Project Base is an advanced stage development of what was previously made in collaboration with the dairy industry. Without operational from Micro X.</p>
+            <h5>Services.</h5>
+            <ul>
+              <li><i class="bi bi-check-circled"></i> Waste Installation.</li>
+              <li><i class="bi bi-check-circled"></i> Bio CNG Installation.</li>
+              <li><i class="bi bi-check-circled"></i> Biogas Engine Installation.</li>
+            </ul>
+          </div>
+          <div class="col-lg-6 order-2 order-lg-1">
+            <img src="assets/img/products/btb.png" class="img-fluid" alt="">
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
@@ -372,7 +411,7 @@
                 <h4>Top 3 Champions of Battle of Minds Indonesia 2022</h4>
                 <p>Micro X is among the 3 startups to represent Indonesia in the Battle of Minds 2022. They will compete with other Asia Pacifics representations in the competition initiated by British American Tobacco (BAT)</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Top 3 Champions Battle of Minds Indonesia 2022"><i class="bx bx-plus"></i></a>
                   <a href="https://m.medcom.id/amp/1bVd6QGK-bat-indonesia-dan-inovator-muda-siap-membuat-dampak-positif-terhadap-lingkungan-hidup" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -390,8 +429,7 @@
 
         <div class="section-title">
           <h2>Team</h2>
-          <p>Micro X offers a full range of services focused on new and renewable energys. To get the best work results, we are supported by a team of experts and
-professionals in their fields, with theoretical and practical backgrounds on New & Renewable Energy.</p>
+          <p>Micro X offers a full range of services focused on new and renewable energys. To get the best work results, we are supported by a team of experts and professionals in their fields, with theoretical and practical backgrounds on New & Renewable Energy.</p>
         </div>
 
         <div class="row">
