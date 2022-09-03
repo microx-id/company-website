@@ -573,7 +573,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Contact</h2>
+          <h2>Reach Us</h2>
         </div>
 
         <div class="row">
