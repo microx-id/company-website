@@ -25,7 +25,7 @@ try {
 
     //Sender and recipient
     $mail->setFrom('it.microx@gmail.com', 'Micro X Indonesia Landing Page');
-    $mail->addAddress('khoirkamaludin@gmail.com', 'Micro X ID - Head Office');
+    $mail->addAddress('head.office@microx-indonesia.com', 'Micro X ID - Head Office');
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
