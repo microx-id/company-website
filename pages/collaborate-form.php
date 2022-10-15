@@ -33,7 +33,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<h1>Fill the form below to collaborate with us</h1>
 		<div class="main-agileinfo">
 			<div class="agileits-top">
-				<form action="#" method="post">
+				<form action="../functions/mail.php" method="post">
 					<input class="text" type="text" name="name" placeholder="Name" required="">
 					<input class="text email" type="email" name="email" placeholder="Email" required="">
 					<input class="text" type="text" name="phone" placeholder="Phone Number" required="">
