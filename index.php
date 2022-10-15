@@ -85,7 +85,7 @@
             </ul> -->
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <!-- <li><a class="getstarted scrollto" href="#about">Get Started</a></li> -->
+          <li><a class="getstarted scrollto" href="pages/collaborate-form.php" target="_blank">Invest To Micro X</a></li
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -362,7 +362,9 @@
             <h1>Reach Us</h1>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="https://wa.me/6281250752344?text=Halo%20Micro%20X%20Indonesia" target="_blank">Our Whatsapp Business</a>
+            <a class="btn btn-danger btn-lg" href="pages/collaborate-form.php" target="_blank">Invest To Micro X Now!</a> 
+             
+            <a class="cta-btn align-middle" href="https://wa.me/6281250752344?text=Halo%20Micro%20X%20Indonesia" target="_blank">Chat Our Whatsapp</a>
           </div>
         </div>
 
