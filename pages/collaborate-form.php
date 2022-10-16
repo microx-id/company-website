@@ -34,10 +34,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="main-agileinfo">
 			<div class="agileits-top">
 				<form action="../functions/mail.php" method="post">
-					<input class="text" type="text" name="name" placeholder="Name*" required="">
-					<input class="text email" type="email" name="email" placeholder="Email*" required="">
-					<input class="text" type="text" name="phone" placeholder="Phone Number*" required="">
-					<input class="text" type="text" name="address" placeholder="Address">
+					<input class="text" type="text" name="name" placeholder="Name" required="" autofocus>
+					<input class="text email" type="email" name="email" placeholder="Email" required="">
+					<input class="text" type="text" name="phone" placeholder="Phone Number" required="">
+					<input class="text email" type="text" name="address" placeholder="Adddress" required="">
 					<!-- <div class="wthree-text">
 						<label class="anim">
 							<input type="checkbox" class="checkbox" required="">
