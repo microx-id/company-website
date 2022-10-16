@@ -35,6 +35,7 @@ try {
                           <li>Name: '.$_POST['name'].'</li>
                           <li>Email: '.$_POST['email'].'</li>
                           <li>Phone: '.$_POST['phone'].'</li>
+                          <li>Address: '.$_POST['address'].'</li>
                       </ul>';
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
