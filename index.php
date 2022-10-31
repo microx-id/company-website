@@ -418,6 +418,30 @@
               </div>
             </div>
           </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/energy-transition-youth-forum.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Winner of Idea Category in Energy Transition Youth Forum</h4>
+                <p>Micro X is Winner of Energy Transition Youth Forum for Idea Category in September 2022. This competition was held by ESDM ministry, USAID, New Energy Nexus Indonesia, AMMAN, and Pertamina.</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/energy-transition-youth-forum.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Micro X is The Winner of Energy Transition Youth Forum for Idea Category in September 2022. This competition was held by ESDM ministry, USAID, New Energy Nexus Indonesia, AMMAN, and Pertamina."><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/green-future-festival.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>2nd Place in Green Future Festival Climate Innovation League</h4>
+                <p>Micro X placed second in Climate Innovation League(CIL) which is part of Green Future Festival held by Ecoxyztem in Oktober 2022.</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/green-future-festival.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Micro X placed second in Climate Innovation League(CIL) which is part of Green Future Festival held by Ecoxyztem in Oktober 2022."><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
 
         </div>
 
