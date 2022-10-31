@@ -436,7 +436,7 @@
         <div class="row">
           <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/faisal.png" alt="">
+              <img src="assets/img/team/faisal2.png" alt="">
               <h4>M Faisal A Lubis</h4>
               <span>Founder</span>
               <p>
@@ -552,7 +552,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/ilyas.jpeg" alt="">
+              <img src="assets/img/team/fian.png" alt="">
               <h4>Ilyas Alfian Suhadi</h4>
               <span>Co Founder</span>
               <p></p>
