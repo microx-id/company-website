@@ -442,6 +442,18 @@
               </div>
             </div>
           </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/sangsang-univ.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>4th Place Winner in Start Idea Competition</h4>
+                <p>Micro X placed fourth in Start Idea Competition held by KT&G and Sand Sang University.</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/sangsang-univ.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Micro X placed fourth in Start Idea Competition held by KT&G and Sand Sang University. ."><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
 
         </div>
 
