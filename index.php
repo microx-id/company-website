@@ -268,39 +268,37 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Products</h2>
+          <h2>Main Products</h2>
         </div>
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2">
-            <img src="assets/img/products/btc.png" class="img-fluid" alt="">
+            <img src="assets/img/products/metagas.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Product Base.</h3>
-            <h4>Business To Customer.</h4>
-            <p>We collaborate with medium-sized dairy farms under the auspices of the Village Cooperative or Village-Owned Enterprises with activities to make BIO CNG infrastructure and also carry out operations to produce gas products.</p>
+            <h3>Meta Gas.</h3>
+            <h4>Consume less oxygen, Produce less carbon dioxide.</h4>
+            <p>Products of PT CIPTA KARYA PANCAPERSADA ENERGY designed to replace LPG in the future front. The main product is gas measuring 12 kg.</p>
           </div>
         </div>
         <br><br>
         <div class="row">
           <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-2 content">
-            <h3>Project Base.</h3>
-            <h4>Business To Business.</h4>
-            <p>Project Base is an advanced stage development of what was previously made in collaboration with the dairy industry. Without operational from Micro X.</p>
-            <h5>Services.</h5>
-            <ul>
-              <li><i class="bi bi-check-circled"></i> Waste Installation.</li>
-              <li><i class="bi bi-check-circled"></i> Bio CNG Installation.</li>
-              <li><i class="bi bi-check-circled"></i> Biogas Engine Installation.</li>
-            </ul>
+            <h3>Organic Fertilizer.</h3>
+            <h4>Liquid and Solid Fertilizer.</h4>
+            <p>Another product is liquid and solid fertilizer made of bio-sludge operational waste. Organic fertilizer distributed in the size of 5 kg package with attractive design 
+.</p>
           </div>
           <div class="col-lg-6 order-2 order-lg-1">
-            <img src="assets/img/products/btb.png" class="img-fluid" alt="">
+            <img src="assets/img/products/pupuk.jpeg" width="30%" class="img-fluid" alt="">
+            <img src="assets/img/products/pupuk2.jpeg" width="30%" class="img-fluid" alt="">
+            <img src="assets/img/products/pupuk3.jpeg" width="30%" class="img-fluid" alt="">
           </div>
         </div>
 
       </div>
-    </section><!-- End About Us Section -->
+    </section>
+    <!-- End About Us Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="product-dev" class="services">
