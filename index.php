@@ -469,14 +469,13 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-3 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/faisal2.png" alt="">
+              <img src="assets/img/team/faisal.jpeg" alt="">
               <h4>M Faisal A Lubis</h4>
               <span>Founder</span>
               <p>
-                Busineess Strategy<br>
-                Team Management
+                CEO<br>
               </p>
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
@@ -487,14 +486,13 @@
             </div>
           </div>
 
-          <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-3 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/arief.jpg" alt="">
+              <img src="assets/img/team/arief.jpeg" alt="">
               <h4>Arief Eko Setiantoro</h4>
               <span>Founder</span>
               <p>
-                General Operational<br>
-                Networking
+                COO
               </p>
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
@@ -505,14 +503,14 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-3 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/team/poppy.jpeg" alt="">
               <h4>Poppy Rakhmadhi</h4>
               <span>Co-Founder</span>
               <p>
-                Engineering Analyst<br>
-                Supply Chain Management
+                Engineering Research &<br>
+                Digital Development
               </p>
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
@@ -523,14 +521,14 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-3 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/kamal.jpg" alt="">
+              <img src="assets/img/team/kamal.jpeg" alt="">
               <h4>Kamaludin Khoir</h4>
               <span>Co-Founder</span>
               <p>
-                Digital Development<br>
-                Compliance Management
+                Technology<br>
+                Digital Development
               </p>
               <div class="social">
                 <a href="https://linkedin.com/in/kamaludin-khoir" target="_blank"><i class="bi bi-linkedin"></i></a>
@@ -538,13 +536,13 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-3 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/nugroho.jpeg" alt="">
+              <img src="assets/img/team/candra.jpeg" alt="">
               <h4>Nugroho Chandra Wijaya</h4>
               <span>Co Founder</span>
               <p>
-                Design & Development Product
+                Product & Design Development
               </p>
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
@@ -555,12 +553,14 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-3 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/tendi.jpg" alt="">
+              <img src="assets/img/team/tendi.jpeg" alt="">
               <h4>Mochammad Tendi Noer Ramadhan </h4>
               <span>Co-Founder</span>
-              <p></p>
+              <p>
+                Program and Area Development
+              </p>
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -570,12 +570,14 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-3 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/yunita.JPEG" alt="">
+              <img src="assets/img/team/yuni.jpeg" alt="">
               <h4>Yunita Sari</h4>
               <span>Co-Founder</span>
-              <p></p>
+              <p>
+                Finance & Compliance
+              </p>
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -585,12 +587,14 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-3W d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/fian.png" alt="">
+              <img src="assets/img/team/fiyan.jpeg" alt="">
               <h4>Ilyas Alfian Suhadi</h4>
               <span>Co Founder</span>
-              <p></p>
+              <p>
+                Fundraising and Human Resources
+              </p>
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
                 <a href="#"><i class="bi bi-facebook"></i></a>
