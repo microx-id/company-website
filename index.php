@@ -170,10 +170,11 @@
             </p>
             <h3>Mision.</h3>
             <ul>
-              <li><i class="bi bi-check-circled"></i> To be the largest Bioenergy provider in Java especially for Bio CNG infrastructure services.</li>
-              <li><i class="bi bi-check-circled"></i> Become an alternative provider of LPG gas substitute with Bio CNG.</li>
-              <li><i class="bi bi-check-circled"></i> Optimizing the potency of biomass utilization for alternative Renewable Energy.</li>
-              <li><i class="bi bi-check-circled"></i> Become one of the companies that help reduce carbon emissions.</li>
+              <li><i class="bi bi-check-circled"></i> Becoming a quality Bio CNG producer as energy alternative for society.</li>
+              <li><i class="bi bi-check-circled"></i> Becoming an organic fertilizer producer with the concept of utilizing sustainable biomass waste.</li>
+              <li><i class="bi bi-check-circled"></i> Becoming a pioneer of raw materials development provider for energy storage systems.</li>
+              <li><i class="bi bi-check-circled"></i> Becoming a leading and most advanced provider of energy conversion machines.</li>
+              <li><i class="bi bi-check-circled"></i> Becoming a driving force to accelerate the use of clean energy which always committed to reduce emissions.</li>
             </ul>
           </div>
         </div>
