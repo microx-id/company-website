@@ -312,9 +312,7 @@
 .</p>
           </div>
           <div class="col-lg-6 order-2 order-lg-1">
-            <img src="assets/img/products/pupuk.jpeg" width="30%" class="img-fluid" alt="">
-            <img src="assets/img/products/pupuk2.jpeg" width="30%" class="img-fluid" alt="">
-            <img src="assets/img/products/pupuk3.jpeg" width="30%" class="img-fluid" alt="">
+            <img src="assets/img/products/pupuk-long-min.jpg" class="img-fluid" alt="">
           </div>
         </div>
 
@@ -327,7 +325,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Product developments</h2>
+          <h2>Products in development</h2>
         </div>
 
         <div class="row">
