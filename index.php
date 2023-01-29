@@ -27,12 +27,35 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <!-- =======================================================
   * Template Name: Green - v4.8.0
   * Template URL: https://bootstrapmade.com/green-free-one-page-bootstrap-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  <style>
+    .float{
+      position:fixed;
+      width:60px;
+      height:60px;
+      bottom:40px;
+      right:40px;
+      background-color:#25d366;
+      color:#FFF;
+      border-radius:50px;
+      text-align:center;
+      font-size:30px;
+      box-shadow: 2px 2px 3px #999;
+      z-index:100;
+    }
+
+    .my-float{
+      margin-top:16px;
+    }
+  </style>
 </head>
 
 <body>
@@ -671,6 +694,9 @@
       </div>
     </div>
   </footer><!-- End Footer -->
+  <a href="https://wa.me/6282137004524?text=Halo%20Micro%20X%20Indonesia" class="float" target="_blank">
+    <i class="fa fa-whatsapp my-float"></i>
+  </a>
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
